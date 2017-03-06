@@ -1,7 +1,4 @@
-	<head>
-		<title></title>
-	</head>
-	<body>
-		<img src="https://github.com/parvathyvd/engagemediaemail/blob/master/images/mainengage.jpg">
-	</body>
+![myimage-alt-tag](https://github.com/parvathyvd/engagemediaemail/blob/master/images/mainengage.jpg)
 
+
+	
